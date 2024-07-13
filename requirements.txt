@@ -1,6 +1,6 @@
-django==2.2.24
+django
 gunicorn==20.0.4
-django-neomodel==0.1.1
-neomodel==5.1.0
+django-neomodel
+neomodel
 djangorestframework==3.11.2
 whitenoise==3.3.1
